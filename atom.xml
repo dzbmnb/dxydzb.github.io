@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bgdxynb.top/"/>
-  <updated>2019-10-24T12:14:21.005Z</updated>
+  <updated>2019-10-24T13:23:41.898Z</updated>
   <id>https://bgdxynb.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>title</title>
+    <title></title>
     <link href="https://bgdxynb.top/2019/10/24/title/"/>
     <id>https://bgdxynb.top/2019/10/24/title/</id>
-    <published>2019-10-24T00:55:44.000Z</published>
-    <updated>2019-10-24T12:14:21.005Z</updated>
+    <published>2019-10-24T00:55:44.694Z</published>
+    <updated>2019-10-24T13:23:41.898Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,8 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;hr&gt;
+&lt;p&gt;title: 李浩&lt;br&gt;author: 子博&lt;br&gt;top: false&lt;br&gt;cover: false&lt;br&gt;toc: true&lt;br&gt;mathjax: false&lt;br&gt;date: 2019-10-24
         
       
     
